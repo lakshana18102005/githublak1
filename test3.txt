@@ -1,1 +1,7 @@
-Test3 have been created
+/*
+Basic Syntax for git
+git clone "paste the link from the profile"
+git add filename
+git commit -m "any commit message" 
+git push origin
+*/
