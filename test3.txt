@@ -1,4 +1,14 @@
 /*
+INSERT -> ADD -> COMMIT -> PUSH
+// 
+Note:-
+1)to go from one file to another - cd filename
+2)to go to prev file - cd ..
+3)to see the status - git status
+
+
+
+
 Basic Syntax for git
 git clone "paste the link from the profile"
 git add filename
