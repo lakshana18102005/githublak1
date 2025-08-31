@@ -5,13 +5,20 @@ Note:-
 1)to go from one file to another - cd filename
 2)to go to prev file - cd ..
 3)to see the status - git status
+4)Before git init -> Folder = normal,  Git doesn't care.
+  After git init -> Folder = Git repository,Git starts tracking changes
 
 
 
-
+$$$From VS code to git
 Basic Syntax for git
 git clone "paste the link from the profile"
 git add filename
 git commit -m "any commit message" 
 git push origin
+
+$$$From git to VS code
+
+git pull
+
 */
