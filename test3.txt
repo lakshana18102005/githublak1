@@ -13,7 +13,8 @@ Note:-
 $$$From VS code to git
 Basic Syntax for git
 git clone "paste the link from the profile"
-git add filename
+git add filename or // to add every file inside staging area command used --> git add .
+
 git commit -m "any commit message" 
 git push origin
 
